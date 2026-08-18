@@ -64,13 +64,19 @@ Currently building **[Winsome](https://github.com/DakshSinghDhami/winsome-new)**
 ## &nbsp;Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DakshSinghDhami&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af&icon_color=ffffff&ring_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DakshSinghDhami&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af&icon_color=ffffff" alt="GitHub Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DakshSinghDhami&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=9ca3af&dates=9ca3af&stroke=1f2937" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DakshSinghDhami&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DakshSinghDhami&theme=github-compact&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff" alt="Activity Graph" />
 </div>
 
 ---
