@@ -64,15 +64,13 @@ Currently building **[Winsome](https://github.com/DakshSinghDhami/winsome-new)**
 ## &nbsp;Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DakshSinghDhami&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f9fafb&text_color=8b949e&icon_color=f9fafb&include_all_commits=true&count_private=true" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DakshSinghDhami&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f9fafb&text_color=8b949e&langs_count=6" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DakshSinghDhami&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af&icon_color=ffffff&ring_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=1800" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DakshSinghDhami&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f2937&ring=f9fafb&fire=f9fafb&currStreakLabel=f9fafb&sideLabels=8b949e&dates=8b949e&currStreakNum=f9fafb&sideNums=f9fafb" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DakshSinghDhami&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=9ca3af&dates=9ca3af&stroke=1f2937" />
 </div>
 
 ---
